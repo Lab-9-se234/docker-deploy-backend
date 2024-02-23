@@ -1,3 +1,0 @@
-type Grade{
-    grade: String
-}
